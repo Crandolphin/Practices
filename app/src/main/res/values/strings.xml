@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practices</string>
+    <string name="title_activity_download_file">DownloadFileActivity</string>
+    <string name="title_activity_products">ProductsActivity</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- DownloadFileActivity -->
+    <string name="DownloadFileActivity_downloadingFile">Downloading File&#8230;</string>
+    <string name="DownloadFileActivity_enterAUrl">Enter a URL</string>
+    <string name="DownloadFileActivity_downloadCanceled">Download Canceled</string>
+    <string name="DownloadFileActivity_downloadError">Download error: </string>
+    <string name="DownloadFileActivity_fileDownloaded">File downloaded</string>
+    <string name="DownloadFileActivity_serverError">Server returned: </string>
+
+    <!-- activity_download_file -->
+    <string name="DownloadFileLayout_hintEnterUrl">Enter URL</string>
+    <string name="DownloadFileLayout_useTestUrl">Use Test URL</string>
+    <string name="DownloadFileLayout_downloadFile">Download File</string>
+    <string name="DownloadFileLayout_continue">Continue to Product List</string>
+
+    <!-- ProductDetailsActivity -->
+    <string name="ProductDetailsActivity_missingProductName">Missing Product Name</string>
+    <string name="ProductDetailsActivity_missingProductDescription">Missing Product Description</string>
+
+</resources>
